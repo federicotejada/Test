@@ -1,7 +1,6 @@
-# Federico's Portfolio
-Hello this is my new portfolio
-<html>
 
+<html>
+Federico's Portfolio
 <h1>"This is us"</h1>
 
 <img src="pic.jpg">
